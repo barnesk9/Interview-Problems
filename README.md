@@ -33,8 +33,8 @@ Submit your results to `join-us@thinktopic.com` as a .tar.gz. This submission sh
     - Relevant screen-shots of the project in action
     - Your resume or CV
     - A project write up that includes the following:
-      + What you've done
-      + How you may improve your solution
-      + Any relevant documentation that you feel would be helpful as if you were handing off the project to someone else to work on in the future.
+      + What you've done and how you accomplished the task at hand
+      + How you may improve your solution (e.g. loose ends, performance improvements, how to scale, etc...)
+      + Documentation for what you added as if you were handing off the project to someone else to work on
       + Your background and familiarity with the technologies used
-      + Your feedback - was this fun, could it be better?
+      + Your feedback - was this fun, how could it be improved?
