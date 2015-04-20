@@ -29,10 +29,12 @@ You can then navigate to [the running app](http://127.0.0.1:5000/) to begin deve
 
 Submit your results to `join-us@thinktopic.com` as a .tar.gz. This submission should include:
   - The entire project in a directory
-  - An additional directory titled `docs`
-  - Your resume or CV as well a project write up. The write up should include
-    + What you've done
-    + How you may improve your solution
-    + Any relevant documentation that you feel would be helpful as if you were handing off the project to someone else to work on in the future.
-    + Your background and familiarity with the technologies used
-    + Your feedback - was this fun, could it be better?
+  - An additional directory titled `docs` and include the following in that directory:
+    - Relevant screen-shots of the project in action
+    - Your resume or CV
+    - A project write up that includes the following:
+      + What you've done
+      + How you may improve your solution
+      + Any relevant documentation that you feel would be helpful as if you were handing off the project to someone else to work on in the future.
+      + Your background and familiarity with the technologies used
+      + Your feedback - was this fun, could it be better?
